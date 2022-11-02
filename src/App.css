@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  font-size: 13px;
+}
+form {
+  padding: 10px;
+}
+.name {
+  width: 200px;
+  height: 25px;
+  border-radius: 5px;
+  margin: 0.5em;
+  display: inline;
+}
+.name:hover {
+  background-color: #e0c6d8;
+}
+.age {
+  width: 200px;
+  height: 25px;
+  border-radius: 5px;
+}
+.btn {
+  width: 120px;
+  height: 32px;
+  background-color: #3f6ad8;
+  color: white;
+  border-radius: 5px;
+  margin-top: 15px;
+  margin: 0.5em;
+  border-color: #3f6ad8;
+  border-style: dotted;
+}
+.btn:hover {
+  color: black;
+  background: white;
+}
